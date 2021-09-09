@@ -14,6 +14,11 @@ Describe techniques you would use to detect the eyes in the entire image.
 Describe techniques you would use to detect drowsiness in the eyes.
 End the synopsis with a conclusion which should contain information about why you selected a particular algorithm over other existing solutions.
 	
+	1.Describe the preprocessing steps required on the image (if any).
+        2.Describe techniques you would use to detect the eyes in the entire image.
+        3.Describe techniques you would use to detect drowsiness in the eyes.
+        4.End the synopsis with a conclusion which should contain information about why you selected a particular algorithm over other existing solutions.
+	
 Note : All modelling techniques must be described in detail. Mathematical explanations would fetch you brownie points! (code for the same is optional). 
 	
 Consider this as a supervised learning problem where you have been given images of open and closed eyes for training.
